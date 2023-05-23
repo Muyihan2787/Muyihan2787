@@ -1,7 +1,6 @@
-- Hi, I’m @Muyihan2787
-- I am a novice, please give me more advice
-- 🌱 I’m currently learning DUYI Education basic courses of Font-to-End development.
-- 💞️ My English level is poor at the moment, but I will continue to improve it by learning
+- Hi, I’m @Muyihan2787.
+- I am a novice, please give me more advice.
+- 💞️ My English level is poor at the moment, but I will continue to improve it by learning.
 - 📫 reach me by email: 348205428@qq.com
 
 <!---
